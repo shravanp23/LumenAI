@@ -1,0 +1,6 @@
+{
+  "name": "LumenAI — AI Video Assistant",
+  "description": "LumenAI is a professional AI video knowledge assistant with JWT authentication, vector RAG search, conversation history, and intelligent timestamped video Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
